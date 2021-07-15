@@ -1,16 +1,15 @@
-# facebook_ui
+# Facebook Ui
 
-A new Flutter application.
+using flutter.
 
-## Getting Started
+## Packages we are using:
+- shimmer: ^1.0.1 [link](https://pub.dev/packages/shimmer)
+- tabbar: ^0.1.1 [link](https://pub.dev/packages/tabbar)
 
-This project is a starting point for a Flutter application.
+My app contains a total of 3-screen, the Spliash Screen screen then Login Screen then go to HomeScreen.
 
-A few resources to get you started if this is your first Flutter project:
+### Animation App Final UI
+<p float="left">
+<img src="/FaceBook_Ui.GIF" width="250" />
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
